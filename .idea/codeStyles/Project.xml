@@ -1,0 +1,13 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <HTMLCodeStyleSettings>
+      <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    </HTMLCodeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <option name="WRAP_ON_TYPING" value="1" />
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <option name="WRAP_COMMENTS" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
